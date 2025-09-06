@@ -1,5 +1,5 @@
 # itko_softwareudvikling_noter
-Noter/andet brubgart fra ITKO Softwareudvikling 2024
+Noter/andet brugbart fra ITKO Softwareudvikling 2024
 
 ## Content
 ```
